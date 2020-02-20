@@ -1,0 +1,37 @@
+#div1{
+	
+	border:2px solid;
+	width:870px;
+	height:250px;
+	margin-top:5px;
+	margin-left:300px;
+	
+}
+#div2{
+	border:2px solid;
+	width:870px;
+	height:250px;
+	margin-top:5px;
+	position:center;
+	margin-left:300px;
+}
+#div1 img{
+	
+	object-fit:cover;
+	object-position:0% 0%;
+	width:870px;
+	height:195px;
+	margin-top:5px;
+	
+	
+}
+#div2 img{
+	object-fit:cover;
+	object-position:100% 100%;
+	width:870px;
+	height:195px;
+	margin-top:5px;
+	}
+#div3 p{
+     margin-left:300px;
+}
